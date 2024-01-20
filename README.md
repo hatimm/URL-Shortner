@@ -1,5 +1,5 @@
 # URL-Shortner
-all the code exists in master branch.
+all the code is in master branch.
 the project contains two parts :
 -backend with laravel : before runing this part :
 *Make sure you have Composer installed.
